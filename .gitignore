@@ -1,0 +1,9 @@
+.env.local
+.env
+__pycache__/
+*.pyc
+.venv/
+dist/
+*.egg-info/
+data/memory_profiles/*.json
+data/chroma_db/
